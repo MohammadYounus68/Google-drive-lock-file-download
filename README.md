@@ -43,3 +43,4 @@ jspdf.src = trustedURL;
 document.body.appendChild(jspdf);
 
 //past this  code and auto download your pdf file
+//oasadaron 
